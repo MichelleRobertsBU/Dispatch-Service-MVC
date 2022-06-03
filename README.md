@@ -4,15 +4,15 @@
 An application that connects customers with service technicians
 
 ## Technical Summary
--Backend: C#
--Framework: ASP.NET Core MVC
--ORM: EF Core
--Server:
--DB: SQL
--Front End: Razor/HTML/JS/CSS
+- Backend: C#
+- Framework: ASP.NET Core MVC
+- ORM: EF Core
+- Server:
+- DB: SQL
+- Front End: Razor/HTML/JS/CSS
 
 ## Patterns
--MVC
+- MVC
 
 ## Getting Started
 1.Clone the project
@@ -21,8 +21,8 @@ An application that connects customers with service technicians
 4.
 
 ## Milestones
-[]Create a GitHub Repo and Start on a Project Plan
-[]Scaffold a new .Net Core MVC Application
+[] Create a GitHub Repo and Start on a Project Plan
+[] Scaffold a new .Net Core MVC Application
 
 
 
