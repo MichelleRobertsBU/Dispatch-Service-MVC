@@ -21,8 +21,8 @@ An application that connects customers with service technicians
 4.
 
 ## Milestones
-[ ] Create a GitHub Repo and Start on a Project Plan
-[ ] Scaffold a new .Net Core MVC Application
+[] Create a GitHub Repo and Start on a Project Plan
+[] Scaffold a new .Net Core MVC Application
 
 
 
